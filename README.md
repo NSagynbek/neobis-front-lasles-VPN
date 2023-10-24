@@ -36,5 +36,12 @@ Footer:
 The footer contains important information, including a brief description of LaslesVPN, social media links, copyright notice, and sections for product details, engagement resources, and earning money with affiliate partnerships.
 ![footer](https://github.com/NSagynbek/neobis-front-lasles-VPN/assets/130668892/4651cdc3-20bf-4218-a5f8-40cd4aeff49c)
 
+## Visit Our Website
+
+Explore LaslesVPN on our GitHub Pages website, where you can try out the service and learn more about our features and plans.
+
+[Visit LaslesVPN on GitHub Pages](https://NSagynbek.github.io/neobis-front-lasles-VPN/)
+
+
 JavaScript and CSS:
 The HTML file includes links to external JavaScript and CSS files for interactivity and styling, as well as Swiper.js to create the testimonial gallery.
